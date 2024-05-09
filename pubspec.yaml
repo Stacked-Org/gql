@@ -21,7 +21,7 @@ dependencies:
   logger: ^1.0.0
 
 dev_dependencies:
-  flutter_lints: ^3.0.0
+  flutter_lints: ^4.0.0
   flutter_test:
     sdk: flutter
 
